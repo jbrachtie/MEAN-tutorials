@@ -14,3 +14,11 @@ to run:
 
 ## notably
 a basic note-taking app, eerily similar to 'todoapp'.... 
+
+in /notably:
+
+`npm install --save express mongodb body-parser nodemon`
+
+to run:
+
+`npm dev run`
