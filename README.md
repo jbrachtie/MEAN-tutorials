@@ -21,4 +21,4 @@ in /notably:
 
 to run:
 
-`npm dev run`
+`npm run dev`
